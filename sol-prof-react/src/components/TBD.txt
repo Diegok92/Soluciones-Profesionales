@@ -1,5 +1,0 @@
-detalle de visitas al sitio (diferenciando visitas/registros) - TBD
-
-dinero ingresado a la fecha por reservas - TBD
-cant de profesionales reservados - TBD
-TOP de profesionales por su reservas/rating - TBD
